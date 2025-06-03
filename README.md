@@ -3,6 +3,9 @@ my wabbajack modlist and passion project to make skyrim as soulslike as physical
 
 "wabbajack" does not refer to the in game staff, but instead to an application that automatically downloads modlists for various games, so long as you have nexus premium, if you don't then it is not automatic and you will have to press "download" for all mods queued for download.
 
+
+-SYSTEM SPECS-
+
 this modlist was mostly designed for my laptop so, you'll need these specs at least (i think)
 
 CPU: 11th gen intel(R) Core(TM) i7-11800H
@@ -17,7 +20,7 @@ the most recent nvidia game driver (if using an nvidia gpu)
 
 1920x1080 resolution for skyrim in your settings for the game if not already at that resolution. i'm not sure about how wider screens will work.
 
-requirements: 
+-REQUIREMENTS- 
 
 https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170 <- Microsoft Visual C++ Redistributable
 
@@ -42,6 +45,8 @@ in this modlist you can ONLY save by sleeping, at bonfires or in beds, doesn't r
 each time you rest, you get 3 health and magicka potions, these will upgrade when you get more dragon souls, not in amount, but in quality. you can still collect potions to use.
 you are ONLY able to level up after sleeping.
 if you change these settings in mcm or in.... settings, i don't actually care really, but you'll lose the intended experience. if thats not important to you, do whatever you want.
+
+My modlist includes LGBTQIA+ options for character creation, if this bothers you, i don't want to hear about it. you are allowed to choose not to download the modlist.
 
 -SUPPORT-
 adding or removing any mods is a no no if you want help, any bugs, crashes, visual issues, anything, must be from the base modlist with nothing added or removed, or else i can't help. its not my modlist at that point.
