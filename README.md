@@ -49,6 +49,7 @@ if you change these settings in mcm or in.... settings, i don't actually care re
 My modlist includes LGBTQIA+ options for character creation, if this bothers you, i don't want to hear about it. you are allowed to choose not to download the modlist.
 
 -SUPPORT-
+
 adding or removing any mods is a no no if you want help, any bugs, crashes, visual issues, anything, must be from the base modlist with nothing added or removed, or else i can't help. its not my modlist at that point.
 
 if you have any issues, feel free to check out my subreddit and use the appropriate flairs! make sure to read the rules beforehand. 
